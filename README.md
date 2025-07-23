@@ -1,4 +1,12 @@
-## Hi there 👋
+## Olá, meu nome é Leonardo. Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), interessado na área de Análise de Dados.
+Estou cursando o quarto semestre do curso. Venho desenvolvendo diversos projetos, utilizando **C**, **Python**, **MySQL**, **Power BI**, entre outras ferramentas. No entanto, meus projetos publicados no meu perfil são voltados para os meus objetivos em Análise de Dados.
+
+### Habilidades relacionadas à área de Dados:
+- **Python**
+- **SQL**
+- **Power BI**
+- **Estatística**
+- **Estruturas de dados**
 
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=langrassi&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
